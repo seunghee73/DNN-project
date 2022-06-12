@@ -1,6 +1,6 @@
 ### Deep learning based Model for Predicting the Travel Time of a Mobile Robot
 
-#### :heavy_check_mark:핵심  
+### :heavy_check_mark:핵심  
 
 기간 : 2020/10/19 - 2020/12/13  
 
@@ -22,9 +22,9 @@
 
 <br>
 
-#### :heavy_check_mark: 프로젝트 정리
+### :heavy_check_mark: 프로젝트 정리
 
-##### Background
+### Background
 
 * 스마트 팩토리는 CPS(Cyber-Physical System) 기술을 가지고 있는데, 이는 네트워크의 정보를 이용하여 공장의 시스템을 제어하는 기술이다. 스마트 팩토리에서는 공장의 생산성 증가, 불량률 감소, 생산 시간을 단축하는 것에 초점을 두고 있다.  
 * 스마트 팩토리 내에서 활용되고 있는 기술 중 무인 자율주행 로봇은 생산 현장에서 필요한 기능에 따라 물품의 이송이나 물품을 들어올리는 Manipulator 역할로 많이 활용되고 있다. 무인 자율주행 로봇은 여러 가지 기술을 가지고 있는데 대표적으로 인지, 판단, 제어의 기술이 있다.  
@@ -33,7 +33,7 @@
 
 <br>
 
-##### Purpose of Research
+### Purpose of Research
 
 ![image-20220605162822647](README.assets/image-20220605162822647.png)  
 
@@ -46,7 +46,7 @@
 
 <br>
 
-##### Description of Technology
+### Description of Technology
 
 ![image-20220605163004492](README.assets/image-20220605163004492.png)  
 
@@ -70,7 +70,7 @@
 
 <br>
 
-##### Implementation
+### Implementation
 
 ![image-20220605164410044](README.assets/image-20220605164410044.png)  
 
@@ -94,6 +94,6 @@
 
 <br>
 
-##### Result
+### Result
 
 ![image-20220605171116284](README.assets/image-20220605171116284.png)  
